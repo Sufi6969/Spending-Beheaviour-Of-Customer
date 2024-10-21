@@ -1,6 +1,6 @@
-#Spending-Beheaviour-Of-Customer
-#Project 1:- Spending behaviour analysis of customer and to identify the most spending segemnt
-#Tasks
+# Spending-Beheaviour-Of-Customer
+# Project 1:- Spending behaviour analysis of customer and to identify the most spending segemnt
+# Tasks
  Monthly spend of each customer.
  Monthly repayment of each customer.
  Highest paying 10 customers.
