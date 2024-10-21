@@ -1,5 +1,5 @@
-# Spending-Beheaviour-Of-Customer
-Edulyt Project 1:- Spending behaviour analysis of customer and to identify the most spending segemnt
+Spending-Beheaviour-Of-Customer
+Project 1:- Spending behaviour analysis of customer and to identify the most spending segemnt
 Tasks
  Monthly spend of each customer.
  Monthly repayment of each customer.
